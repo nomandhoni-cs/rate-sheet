@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "name": "Convex Schema & Format",
+  "description": "Automatically generates Convex schema and runs Biome formatting when Convex schema files are modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "convex/schema.ts",
+      "convex/*.ts"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "The Convex schema files have been modified. Please:\n1. Run `npx convex dev` to regenerate the schema and sync with the database\n2. Run `npx @biomejs/biome format --write .` to format all code files according to Biome standards\n3. Verify that the schema changes are valid and don't break existing queries/mutations\n4. Check that all TypeScript files in the convex directory are properly formatted"
+  }
+}
