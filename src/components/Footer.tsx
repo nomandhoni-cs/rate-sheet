@@ -11,7 +11,7 @@ export function Footer() {
                             Open-source production tracking and payroll management system for garment manufacturing facilities.
                         </p>
                         <a
-                            href="https://github.com/nomandhoni-cs/RateSheet"
+                            href="https://github.com/nomandhoni-cs/rate-sheet"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex items-center gap-2 text-primary hover:text-primary/80 transition-colors"

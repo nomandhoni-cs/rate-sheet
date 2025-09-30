@@ -77,7 +77,7 @@ export default function Home() {
                     <ArrowRight className="ml-2 w-5 h-5" />
                   </Button>
                   <Button variant="outline" size="lg" className="text-lg px-8 py-4 h-auto" asChild>
-                    <a href="https://github.com/nomandhoni-cs/RateSheet" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/nomandhoni-cs/rate-sheet" target="_blank" rel="noopener noreferrer">
                       View on GitHub
                     </a>
                   </Button>
@@ -343,7 +343,7 @@ export default function Home() {
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </Button>
                 <Button variant="outline" size="lg" className="text-lg px-8 py-4 h-auto" asChild>
-                  <a href="https://github.com/nomandhoni-cs/RateSheet" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/nomandhoni-cs/rate-sheet" target="_blank" rel="noopener noreferrer">
                     Star on GitHub
                   </a>
                 </Button>

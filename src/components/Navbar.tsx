@@ -118,7 +118,7 @@ export function Navbar() {
                 <a href="#how-it-works" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
                   How it Works
                 </a>
-                <a href="https://github.com/nomandhoni-cs/RateSheet" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+                <a href="https://github.com/nomandhoni-cs/rate-sheet" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
                   GitHub
                 </a>
               </nav>
@@ -251,7 +251,7 @@ export function Navbar() {
                   How it Works
                 </a>
                 <a
-                  href="https://github.com/nomandhoni-cs/RateSheet"
+                  href="https://github.com/nomandhoni-cs/rate-sheet"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block px-3 py-2 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-accent rounded-lg transition-colors"
