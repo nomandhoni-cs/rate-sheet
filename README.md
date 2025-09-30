@@ -13,7 +13,7 @@
 [![Clerk](https://img.shields.io/badge/Clerk-Auth-orange?style=flat)](https://clerk.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/yourusername/ratesheet/issues) • [✨ Request Feature](https://github.com/yourusername/ratesheet/issues)
+[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/nomandhoni-cs/rate-sheet/issues) • [✨ Request Feature](https://github.com/nomandhoni-cs/rate-sheet/issues)
 
 </div>
 
