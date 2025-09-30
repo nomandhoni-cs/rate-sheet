@@ -388,10 +388,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [Project Wiki](https://github.com/yourusername/ratesheet/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ratesheet/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ratesheet/discussions)
-- **Email**: support@ratesheet.com
+- **Documentation**: [Project Wiki](https://github.com/nomandhoni-cs/rate-sheet/wiki)
+- **Issues**: [GitHub Issues](https://github.com/nomandhoni-cs/rate-sheet/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/nomandhoni-cs/rate-sheet/discussions)
+- **Email**: alnoman.dhoni@gmail.com
 
 ---
 
@@ -399,6 +399,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the garment manufacturing industry**
 
-[⭐ Star this project](https://github.com/yourusername/ratesheet) if you find it helpful!
+[⭐ Star this project](https://github.com/nomandhoni-cs/rate-sheet) if you find it helpful!
 
 </div>
